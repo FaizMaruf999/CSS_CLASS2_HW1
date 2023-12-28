@@ -1,0 +1,281 @@
+
+
+
+.Monitor{
+    width: 400px;
+    height: 500px;
+    background-color:#f5eded;
+    border: 3px solid #ede6e6;
+    border-radius: 10px;
+    margin: 20px 30px;
+    display: inline-block;
+   
+    
+}
+
+.Monitor .point{
+    background-color:blueviolet;
+    width: 120px;
+    color: white;
+    padding: 6px;
+    border-radius: 0 15px 15px 0;
+    font-family: cursive;
+}
+.Monitor img{
+    margin:0 70px;
+    display: block;
+    width: 250px;
+}
+.Monitor .dtails{
+    font-size: 20px;
+    font-family: "Trebuchet MS",sans-serif;
+    margin: 0 0 0 20px;
+    padding: 40px 0 20px 10px;
+    font-weight: bold;
+    
+}
+.Monitor .dtails:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.Monitor .amount{
+    color: red;
+    font-family: "Trebuchet MS",sans-serif;
+    font-size: 25px;
+    margin:0 0 0 20px;
+    padding: 30px 0 20px 10px;
+}
+.Monitor2{
+   width: 400px;
+   height: 500px;
+    background-color:#f5eded;
+    border: 3px solid #ede6e6;
+    border-radius: 10px;
+    margin: 20px 30px;
+    
+    display: inline-block;
+}
+.Monitor2 .point2{
+    background-color:blueviolet;
+    width: 120px;
+    color: white;
+    padding: 6px;
+    border-radius: 0 15px 15px 0;
+    font-family: cursive;
+}
+.Monitor2 img{
+    margin:0 70px;
+    display: block;
+    width: 250px;
+}
+.Monitor2 .dtails2{
+    font-size: 20px;
+    font-family: "Trebuchet MS",sans-serif;
+    margin: 0 0 0 20px;
+    padding: 40px 0 20px 10px;
+    font-weight: bold;
+    
+}
+.Monitor2 .dtails2:hover{
+    color: red;
+    text-decoration: underline;
+}
+.Monitor2 .amount2{
+    color: red;
+    font-family: "Trebuchet MS",sans-serif;
+    font-size: 25px;
+    margin: 0 0 0 20px;
+    padding: 30px 0 20px 10px;
+}
+
+.Monitor3{
+    width: 400px;
+    height: 500px;
+     background-color:#f5eded;
+     border: 3px solid #ede6e6;
+     border-radius: 10px;
+     margin: 20px 30px;
+     display: inline-block;
+ }
+ .Monitor3 .point3{
+     background-color:blueviolet;
+     width: 120px;
+     color: white;
+     padding: 6px;
+     border-radius: 0 15px 15px 0;
+     font-family: cursive;
+ }
+ .Monitor3 img{
+     margin:0 70px;
+     display: block;
+     width: 250px;
+ }
+ .Monitor3 .dtails3{
+     font-size: 20px;
+     font-family: "Trebuchet MS",sans-serif;
+     margin: 0 0 0 20px;
+     padding:20px 10px;
+     font-weight: bold;
+     
+ }
+ .Monitor3 .dtails3:hover{
+    color: red;
+    text-decoration: underline;
+}
+ .Monitor3 .amount3{
+     color: red;
+     font-family: "Trebuchet MS",sans-serif;
+     font-size: 25px;
+     margin: 0 0 0 20px;
+     padding: 30px 0 20px 10px;
+ }
+
+ .Monitor4{
+    width: 400px;
+    height: 500px;
+     background-color:#f5eded;
+     border: 3px solid #ede6e6;
+     border-radius: 10px;
+     margin: 20px 30px;
+     display: inline-block;
+ }
+ .Monitor4 .point4{
+     background-color:blueviolet;
+     width: 120px;
+     color: white;
+     padding: 6px;
+     border-radius: 0 15px 15px 0;
+     font-family: cursive;
+ }
+ .Monitor4 img{
+     margin:0 70px;
+     display: block;
+     width: 250px;
+ }
+ .Monitor4 .dtails4{
+     font-size: 20px;
+     font-family: "Trebuchet MS",sans-serif;
+     margin: 0 0 0 20px;
+     padding:20px 10px;
+     font-weight: bold;
+     
+ }
+ .Monitor4 .dtails4:hover{
+    color: red;
+    text-decoration: underline;
+}
+ .Monitor4 .amount4{
+     color: red;
+     font-family: "Trebuchet MS",sans-serif;
+     font-size: 25px;
+     margin: 0 0 0 20px;
+     padding: 30px 0 20px 10px;
+ }
+
+ .allcategory{
+    background-color: #F2F4F8;
+    width: 100%;
+   height: 400px;
+    margin-top: 30px;
+   
+   
+ }
+ .allcategory  p{
+    font-family: "Trebuchet MS",sans-serif;
+    font-size: 25px;
+ }
+.allcategory  img{
+    width: 80px;
+}
+
+ .allcategory .home{
+    width: 200px;
+    background-color: #FFFFFF;
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid whitesmoke;
+    margin: 50px 0 0 50px;
+    box-shadow: 0 2px 2px #F2F4F8;
+    border-radius: 20px;
+    
+ }
+ .allcategory .home:hover{
+    color: red;
+ }
+ .allcategory .drone{
+    width: 200px;
+    background-color: #FFFFFF;
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid whitesmoke;
+    margin: 50px 0 0 50px;
+    box-shadow: 0 2px 2px #F2F4F8;
+    border-radius: 20px;
+    
+ }
+ .allcategory .drone:hover{
+    color: red;
+ }
+ .allcategory .gimbal{
+    width: 200px;
+    background-color: #FFFFFF;
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid whitesmoke;
+    margin: 50px 0 0 50px;
+    box-shadow: 0 2px 2px #F2F4F8;
+    border-radius: 20px;
+    
+ }
+ .allcategory .gimbal:hover{
+    color: red;
+ }
+ .allcategory .mobile{
+    width: 200px;
+    background-color: #FFFFFF;
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid whitesmoke;
+    margin: 50px 0 0 50px;
+    box-shadow: 0 2px 2px #F2F4F8;
+    border-radius: 20px;
+    
+ }
+ .allcategory .mobile:hover{
+    color: red;
+ }
+ .allcategory .tv{
+    width: 200px;
+    background-color: #FFFFFF;
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid whitesmoke;
+    margin: 50px 0 0 50px;
+    box-shadow: 0 2px 2px #F2F4F8;
+    border-radius: 20px;
+    
+ }
+ .allcategory .tv:hover{
+    color: red;
+ }
+ .allcategory .Laptop{
+    width: 200px;
+    background-color: #FFFFFF;
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid whitesmoke;
+    margin: 50px 0 0 50px;
+    box-shadow: 0 2px 2px #F2F4F8;
+    border-radius: 20px;
+    
+ }
+ .allcategory .Laptop:hover{
+    color: red;
+ }
